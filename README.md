@@ -1,2 +1,2 @@
-# infectiousdiseasemodels-asiadenguesummit-2026
-Modelling Serological Data Workshop, Asia Dengue Summit 2026, Singapore
+# Modelling Serological Data
+ Workshop at Asia Dengue Summit 2026, Singapore
